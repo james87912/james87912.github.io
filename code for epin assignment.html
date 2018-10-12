@@ -1,0 +1,61 @@
+<html>
+<head>
+<style>
+#demo {
+    background-color: type a color;
+    width: add a dimension;
+    border: add a dimension add a color;
+    padding: add a dimension;
+    margin: add a dimension;
+    color: add a color
+}
+</style>
+</head>
+<body>
+<h1>Welcome to Questions about James</h1>
+
+<form>
+  Question 1<br><br>
+  Add your word/math question here<br>
+second line of question<br><br>
+
+  Type any word to denote the result (it will appear as you have typed, next to the answer box)<br>
+  <input type="text" id="answer1">
+  <br><br>
+
+  You can use the same format above if you want to add more questions
+  <button type="button" onclick="myFunction()">Result</button>
+</form>
+
+<br><br>
+<div id="demo"></div>
+
+<script>
+// JAVASCRIPT FUNCTION THAT IS CALLED BY RESULT BUTTON
+//function myFunction() {
+    var score = 0, text;
+
+    // Get the value of the input field with id="answer1"
+    a = document.getElementById("answer1").value;
+    // Our answer is type answer to your question so we check here for that
+    if (a == type answer) {
+        score = score + 1;
+    } else {
+        // do nothing
+    }
+
+  Same format as above if you have more than one question
+
+    // Display output
+    if(score == type the total number of questions on your site) {
+	text = "You answered everything correctly! Congrats!"
+    } else {
+	text = "Your score was " + score + "/type the total number of questions on site. Better luck next time!"
+    }
+    document.getElementById("demo").innerHTML = text;
+}
+System.out.printIn("this is" = text);
+</script>
+
+</body>
+</html>
