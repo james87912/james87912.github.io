@@ -25,12 +25,18 @@ second line of question<br><br>
 
   You can use the same format above if you want to add more questions
   <button type="button" onclick="myFunction()">Result</button>
+
 </form>
 
 <br><br>
 <div id="demo"></div>
 
-<script>
+
+<script type = "text/javascript">
+$("button").click(function(){
+  var fired_button = $(this).val();
+  alert(fired_button);
+});
 // JAVASCRIPT FUNCTION THAT IS CALLED BY RESULT BUTTON
 //function myFunction() {
     var score = 0, text;
@@ -54,16 +60,22 @@ second line of question<br><br>
     }
     document.getElementById("demo").innerHTML = text;
 }
+
+package stringvars;
+import java.util.Scanner;
+public class StringVariables{
 public static void main(String[] args){
+
 Scanner user_input = new Scanner (System.in);
+
 String answer1;
 System.out.print("Enter your name:");
 
 String userAnswer = answer1;
 System.out.printIn("You are" + answer1);
+
+  }
 }
-
-
 
 )</script>
 
