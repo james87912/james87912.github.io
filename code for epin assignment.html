@@ -14,17 +14,72 @@
 <body>
 <h1>Welcome to Questions about James</h1>
 
-<form>
-  Question 1<br><br>
-  Add your word/math question here<br>
-second line of question<br><br>
+
+<script>
+
+function myFunction(){
+  var combine = document.getElementById("answer1").value + document.getElementById("answer2").value;
+  document.getElementById('show').innerHTML = combine;
+  var score = 0, text;
+
+      a = document.getElementById("Beijing").value;
+      b = document.getElementById("Vienna").value;
+      c = document.getElementById("Copenhagen").value;
+
+      if(a == "Beijing"){
+        score++;
+        console.log("in bj");
+      }
+
+      if(b == "Vienna"){
+        score++;
+      }
+
+      if(c == "Copenhagen"){
+        score++;
+      }
+
+      if(score == 3) {
+  	      text = "You got it right! Congrats!"
+      } else {
+  	     text = "Your score was " + score + "/3. Better luck next time!"
+      }
+      document.getElementById("demo").innerHTML = text;
+  }
+
+  </script>
+  <form>
+
+
+    Question 1<br><br>
+    What is the capital city of China?<br>
+
+    Type your answer! (it will appear as you have typed, next to the answer box)<br>
+    <input  type="text" id="Beijing">
+    <br><br>
+
+
+    Question 2<br><br>
+  What is the capital city of Austria?<br>
+
+    Type your answer! (it will appear as you have typed, next to the answer box)<br>
+    <input type="text" id="Vienna">
+    <br><br>
+
+  Question 3<br><br>
+  What is the capital city of Denmark?<br>
+
+    Type your answer! (it will appear as you have typed, next to the answer box)<br>
+    <input type="text" id="Copenhagen">
+    <br><br>
+
 
   Type any word to denote the result (it will appear as you have typed, next to the answer box)<br>
-  <input type="text" id="answer1">
+  <input type="text" id="answer2">
   <br><br>
-
-  You can use the same format above if you want to add more questions
   <button type="button" onclick="myFunction()">Result</button>
+  <br>
+  <span>This is the answer: <span id="show"></span></span>
 
 </form>
 
@@ -32,50 +87,6 @@ second line of question<br><br>
 <div id="demo"></div>
 
 
-<script type = "text/javascript">
-$("button").click(function(){
-  var fired_button = $(this).val();
-  alert("this" + element.value + fired_button);
-});
-// JAVASCRIPT FUNCTION THAT IS CALLED BY RESULT BUTTON
-//function myFunction() {
-    var score = 0, text;
-
-    // Get the value of the input field with id="answer1"
-    a = document.getElementById("answer1").value;
-    // Our answer is type answer to your question so we check here for that
-    if (a == type answer) {
-        score = score + 1;
-    } else {
-        // do nothing
-    }
-
-  Same format as above if you have more than one question
-
-    // Display output
-    if(score == type the total number of questions on your site) {
-	text = "You answered everything correctly! Congrats!"
-    } else {
-	text = "Your score was " + score + "/type the total number of questions on site. Better luck next time!"
-    }
-    document.getElementById("demo").innerHTML = text;
-}
-
-package stringvars;
-import java.util.Scanner;
-public class StringVariables{
-public static void main(String[] args){
-
-Scanner user_input = new Scanner (System.in);
-
-String answer1;
-System.out.print("Enter your name:");
-
-String userAnswer = answer1;
-System.out.printIn("You are" + answer1);
-
-  }
-}
 
 )</script>
 
