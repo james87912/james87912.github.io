@@ -2,20 +2,63 @@
 <html>
 <head>
   <title>Musings Page</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="home_style.css">
 </head>
 
-<body>
-
+<div class="a">
 <!-- Site navigation menu -->
-<ul class="navbar">
-  <li><a href="index.html">Home page</a>
-  <li><a href="musings.html">Musings</a>
-  <li><a href="town.html">My town</a>
-  <li><a href="links.html">Links</a>
-</ul>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Secret</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="index.html">Home page</a>
+      <li><a href="musings.html">Musings</a>
+      <li><a href="town.html">My town</a>
+      <li><a href="links.html">Links</a>
+    </ul>
+    <form class="navbar-form navbar-left" action="/action_page.php">
+      <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search">
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+  </div>
+</nav>
+</div>
+<body>
+<!--tell me who you are-->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2">
+      //form
+      <form class="form-inline" action="/action_page.php">
+        <div class="form-group">
+          <label for="email">Email address:</label>
+          <input type="email" class="form-control" id="email">
+        </div>
+        <div class="form-group">
+          <label for="pwd">Password:</label>
+          <input type="password" class="form-control" id="pwd">
+        </div>
+        <div class="checkbox">
+          <label><input type="checkbox"> Remember me</label>
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>
+    <div class="col-sm-4">
+      <img class="img-responsive" src="CUHK.jpg" alt="image"> 
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="col-sm-6">
 
 <!-- Main content -->
+
 <h1>Musings Page</h1>
 
 <p>Welcome to my styled page!
@@ -27,9 +70,11 @@ anywhere&hellip;
 <p>There should be more here, but I don't know
 what yet.
 
+
 <!-- Sign and date the page, it's only polite! -->
 <address>Made 5 April 2004<br>
   by myself.</address>
+  </div>
 
 </body>
 </html>

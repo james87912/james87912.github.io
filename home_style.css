@@ -3,7 +3,10 @@ body {
     background-color: pink;
     font-family: georgia, "Times New Roman",
             Times, serif;
-          padding-left: 11em}
+          padding-left: 15em}
+div.a{
+padding-right: 5em
+}
 h1 {
 font-family: Helvetica, Geneva, Arial,SunSans-Regular, sans-serif }
 ul.navbar {
