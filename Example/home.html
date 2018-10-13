@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Home Page</title>
+  <link rel="stylesheet" type="text/css" href="home_style.css">
+  <script src="script.js"></script>
+  <script>
+  function show_topic() {
+   var x = document.getElementById("demo");
+   x.style.fontSize = "25px";
+   x.style.color = "red";
+  }
+  </script>
+</head>
+
+<body>
+
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home page</a>
+  <li><a href="town.html">Calculations</a>
+  <li><a href="links.html">Links</a>
+</ul>
+
+<!-- Main content -->
+<h1>Home page</h1>
+
+<p>Welcome to a page of who you love!
+
+<p>It lacks images, cuz your picture stays in my mind;
+And it has links, that connects between you and me
+anywhere&hellip;
+
+<p id=demo>There should be more here, and I will wait for you~
+</p>
+<button onclick="show_topic()">Click this button!</button>
+
+<!-- Sign and date the page, it's only polite! -->
+<address>Made 12 October 2018<br>
+  by your bf/gf.</address>
+
+</body>
+</html>
