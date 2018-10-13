@@ -1,80 +1,45 @@
 <html>
 <head>
-<style>
-#demo {
-    background-color: type a color;
-    width: add a dimension;
-    border: add a dimension add a color;
-    padding: add a dimension;
-    margin: add a dimension;
-    color: add a color
-}
-</style>
+<title>Do you know who I am?</title>
+<meta charset="UTF-utf-8">
+<link rel="stylesheet" type="text/css" href="home_style.css">
 </head>
+
 <body>
-<h1>Welcome to Questions about James</h1>
-
-
-<script>
-
-function myFunction(){
-  //var combine = document.getElementById("answer1").value + document.getElementById("answer2").value;
-  //document.getElementById('show').innerHTML = combine;
-  var score = 0, text;
-
-      a = document.getElementById("Beijing").value;
-      b = document.getElementById("Vienna").value;
-      c = document.getElementById("Copenhagen").value;
-
-      if(a == "Beijing"){
-        score++;
-        console.log("in bj");
-      }
-
-      if(b == "Vienna"){
-        score++;
-      }
-
-      if(c == "Copenhagen"){
-        score++;
-      }
-
-      if(score == 3) {
-  	      text = "You got it right! Congrats!"
-      } else {
-  	     text = "Your score was " + score + "/3. Better luck next time!"
-      }
-      document.getElementById("demo").innerHTML = text;
-  }
-
-  </script>
+<h1>Who am I? Questions about James!!</h1>
+<script src=myscript.js></script>
   <form>
 
 
-    Question 1<br><br>
-    What is the capital city of China?<br>
+    Secret #1<br><br>
+    What is James's favorite food?<br>
 
-    Type your answer! (it will appear as you have typed, next to the answer box)<br>
-    <input  type="text" id="Beijing">
+    You know what I love right? Love you!!!<br>
+    <input  type="text" id="Scramble Eggs">
     <br><br>
 
 
-    Question 2<br><br>
-  What is the capital city of Austria?<br>
+    Secret #2<br><br>
+  What is James's Surname?<br>
 
-    Type your answer! (it will appear as you have typed, next to the answer box)<br>
-    <input type="text" id="Vienna">
+    What is my surname?? Type!!!<br>
+    <input type="text" id="SHIAH">
     <br><br>
 
-  Question 3<br><br>
-  What is the capital city of Denmark?<br>
+   Secret #3<br><br>
+Who does James fall in love with?<br>
 
-    Type your answer! (it will appear as you have typed, next to the answer box)<br>
-    <input type="text" id="Copenhagen">
+    You know who I like the most!! ^^~ <br>
+    <input type="text" id="You">
     <br><br>
 
     <button type="button" class="btn btn-primary" onclick="myFunction()">See results!</button>
   </form>
+
+  <ul class="navbar">
+    <li><a href="home.html">Home page</a>
+    <li><a href="index.html">The Page that directs to your heart!</a>
+  </ul>
 
   <br><br>
   <div id="demo"></div>
