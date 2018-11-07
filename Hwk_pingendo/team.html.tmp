@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-128897631-1"></script>
+  <script> window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128897631-1');
+</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- PAGE settings -->
+  <link rel="icon" href="https://templates.pingendo.com/assets/Pingendo_favicon.ico">
+  <title>Communicate with James</title>
+  <meta name="description" content="Free Bootstrap 4 Pingendo Smke template single landing page team">
+  <meta name="keywords" content="Pingendo smke free template bootstrap 4">
+  <!-- CSS dependencies -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="colorful.css">
+  <!-- Script: Navbar on-top -->
+  <script src="js/navbar-ontop.js"></script>
+</head>
+
+<body style="padding-right: 17px;">
+  <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark" style="padding-right: 41px;">
+    <div class="container">
+      <a class="navbar-brand" href="#"><b>Communicate with James</b></a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar3SupportedContent" aria-controls="navbar3SupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse text-center justify-content-end" id="navbar3SupportedContent">
+      </div>
+    </div>
+  </nav>
+  <div class="py-5 text-center cover d-flex flex-column bg-dark" style="background-position: left top, left top; background-size: 100%, 100%; background-repeat: repeat, repeat; box-shadow: black 0px 0px 4px; background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url(&quot;1_9955WXkFsCYRSs1_5IdaYw.jpg&quot;);">
+    <div class="container my-auto">
+      <div class="row" style="	text-shadow: 0px 0px 4px black;">
+        <div class="mx-auto col-lg-6 col-md-8">
+          <h1 class="display-1 mb-0 mt-5 big-title text-secondary" style="">SNPs</h1>
+          <h3 class="mb-4 text-white" style=""><b>Single Nucleotide Polymorphisms Shorten the Natural Polymorphisms</b></h3>
+          <p style="	box-shadow: 0px 0px 4px  black;	text-shadow: 0px 0px 4px black;" class="text-center text-uppercase shadow-lg text-warning w-100"><b><i>If you want to know what gets you Autism ...<br>If you are planning to apply for a biology graduate school ...<br>join us! And discover more about the autism disease!!!!!!</i></b></p>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-auto">
+      <div class="row">
+        <div class="mx-auto col-lg-6 col-md-8 col-10">
+          <a href="#mission"><i class="d-block fa fa-angle-down fa-2x"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 filter-dark cover bg-fixed" style="	background-image: url(&quot;dna-163466_960_720-620x342.jpg&quot;);	background-position: top left;	background-size: 100%;	background-repeat: repeat;" id="mission">
+    <div class="container my-auto">
+      <div class="row">
+        <div class="col-md-8 p-3 text-white">
+          <h2 class="mb-4">Who? What? Why?</h2>
+          <p class="lead"><i>Who? You are the one who will uncover the genetic ciphers!<br>What? Go for a glance of what Common SNPs about Autism Spectrum Diseases have been discovered<br>Why? You will have an overview of the SNPs and then discover what dream graduate schools you wanna go to to uncover the mysterious science field!</i></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 text-center" style="background-image: linear-gradient(to left bottom, rgba(189, 195, 199, .75), rgba(44, 62, 80, .75)); background-size: 100%;">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto col-md-6">
+          <h1>JOIN US</h1>
+          <p class="mb-4">A wonderful serenity has taken possession of my entire soul</p>
+          <form class="form-inline d-flex justify-content-center">
+            <div class="input-group"> <input type="email" class="form-control" placeholder="Your email" id="form1">
+              <div class="input-group-append"> <button class="btn btn-danger" type="button">Subscribe</button> </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 bg-light" id="what" style="	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8)), url(&quot;https://pingendo.com/site-assets/cover.jpg&quot;);	background-position: top left, top left;	background-size: 100%, 100%;	background-repeat: repeat, repeat;">
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-md-10 mx-auto px-4">
+          <h2 class="mb-4 text-white" style="	text-shadow: 0px 0px 4px black;">Who are you??</h2>
+          <div class="row text-left">
+            <div class="p-3 col-lg-4 col-md-6">
+              <div class="row mb-3">
+                <div class="text-center col-3"><i class="d-block mx-auto fa fa-4x fa-flask text-light"></i></div>
+                <div class="align-self-center d-flex align-items-center px-0 px-md-2 col-9">
+                  <h5 class="mb-0 text-white"><b>BIomedical Scientists for Genetic Testing</b></h5>
+                </div>
+              </div>
+              <p class="text-light">If you are a biomedical scientist... Join us!!!!! We test! And get the SNPs!!!!! Go for a genetic testing to know more about yourself!</p>
+            </div>
+            <div class="p-3 col-lg-4 col-md-6">
+              <div class="row mb-3">
+                <div class="text-center col-3"><i class="d-block mx-auto fa fa-4x text-light fa-graduation-cap"></i></div>
+                <div class="align-self-center d-flex align-items-center px-0 px-md-2 col-9">
+                  <h5 class="mb-0 text-white"><b>&nbsp; &nbsp; &nbsp;Student for Graduate School</b></h5>
+                </div>
+              </div>
+              <p class="text-light">If you are a student interested in the area of SNPs... Scroll down and check more about the graduate school options in the States!!!!!</p>
+            </div>
+            <div class="p-3 col-lg-4 text-white">
+              <div class="row mb-3">
+                <div class="text-center col-3"><i class="d-block mx-auto fa fa-4x fa-user-md text-light"></i></div>
+                <div class="align-self-center d-flex align-items-center px-0 px-md-2 col-9">
+                  <h5 class="mb-0"><b>Doctor for Diagnosis and Tracking</b></h5>
+                </div>
+              </div>
+              <p class="text-light">If you are a doctor... Go for a genetic consultant from the biomedical sciences department and discuss more about SNPs! This will assist the diagnosis</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center py-5" style="	background-image: url(&quot;image.jpg&quot;);	background-position: top left;	background-size: 10%;	background-repeat: repeat;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="text-light">An Overview of the Single Nucleotide Polymorphisms (SNPs)</h2>
+        </div>
+      </div>
+      <div class="row" style="">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrqB0qUwM5ekc0XV?backgroundColor=yellow&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      </div>
+      <div class="row" style="">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shr0trZzwvpCx6iPD?backgroundColor=yellow&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="py-5" style="	background-image: url(experiment_400x300.gif);	background-position: right bottom;	background-size: cover;	background-repeat: repeat;	background-attachment: fixed;">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto col-md-8 text-center">
+          <h1 class="text-white" style="	text-shadow: 0px 0px 10px white;">I know you want a more organized one</h1>
+          <p class="text-white">Huh~ Let's see which chromosome has the most SNPs.......</p>
+        </div>
+      </div>
+      <div class="row">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shrN9GiejXIoYDJnq?backgroundColor=yellow&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="py-5" style="	background-image: url(&quot;070507_HGP_TheSecret.jpg.CROP.promo-xlarge2.jpg&quot;);	background-position: center;	background-size: 100%;	background-repeat: repeat;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="blockquote">
+            <p class="mb-0 text-light shadow-lg" style="	text-shadow: 0px 0px 4px black;">I know that you may know more than I am</p>
+            <div class="blockquote-footer text-light" style="">You are more than you thought! Send me your secrets</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5" style="background-image: linear-gradient(to left bottom, rgba(189, 195, 199, 0.75), rgba(44, 62, 80, 0.75)); background-size: 100%;">
+    <div class="container">
+      <div class="row">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shry5gkeZ474JreiW?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="px-md-5 p-3 d-flex flex-column justify-content-center text-center col-lg-6">
+          <h1 contenteditable="true">Now, you are qualified...</h1>
+          <p class="mb-3 lead" contenteditable="true">Ready to go for an adventure??<br>Where in the States do you want to study?</p> <a class="btn btn-link" href="#">Let's Go</a>
+        </div>
+        <div class="p-0 col-lg-6"> <img class="img-fluid d-block" src="estate.jpg"> </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5" style="background-image: url(https://static.pingendo.com/cover-bubble-dark.svg); background-position: right bottom;  background-size: cover; background-repeat: repeat; background-attachment: fixed;">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto col-md-8 text-center">
+          <h1>You will be the future...</h1>
+          <p class="mb-4">You are who you will be</p>
+        </div>
+      </div>
+      <div class="row">
+        <iframe class="airtable-embed" src="https://airtable.com/embed/shroZRyqrcG1CBShx?backgroundColor=purple&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 text-white" style="	background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(world-map_0.png);	background-position: center center, top left;	background-size: cover, 100%;	background-repeat: repeat, repeat;">
+    <div class="container">
+      <div class="row" style="">
+        <div class="col-md-6 text-center align-self-center p-4" style="">
+          <p class="mb-5" contenteditable="true"><b>Have a glance at those prestigous universities in the States!!!!!</b></p>
+          <div class="row">
+            <div class="col-md-12 d-flex align-items-center justify-content-around"> <a href="#">
+                <i class="d-block fa  fa-graduation-cap text-light mx-2"></i>
+              </a> <a href="#">
+                <i class="d-block fa fa-reddit text-light mx-2 fa-map"></i>
+              </a> <a href="#">
+                <i class="d-block fa fa-twitter text-light ml-2 fa-street-view"></i>
+              </a> </div>
+          </div>
+        </div>
+        <div class="col-md-6 p-0"> <iframe width="600" height="450" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d25858363.869660586!2d-114.28833657409803!3d38.59517967065236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1stop+100+universities+us!5e0!3m2!1sen!2shk!4v1541515052994" frameborder="0" allowfullscreen="" style="border:0"></iframe></div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 text-center align-items-center d-flex" style="	background-image: url(709304_fc6f_2.jpg);	background-size: 100%;	background-position: top left;	background-repeat: repeat;">
+    <div class="container py-5">
+      <div class="row">
+        <div class="col-md-8 mx-auto">
+          <h1 class="display-3 mb-4">Indeed...</h1>
+          <p class="lead mb-5"><br>I've sorted the top 200 schools based on the location!!!<br>The State with the most prestigious biology graduate program is.......<br>NEW YORK!!!!!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(22 SCHOOLS)<br><br></p>
+          <iframe class="airtable-embed" src="https://airtable.com/embed/shrHVUG8xJZSwJ8t9?backgroundColor=purple&amp;viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 section bg-light" style="	background-image: url(Globe.jpg);	background-position: top left;	background-size: 100%;	background-repeat: repeat;">
+    <div class="container p-3">
+      <div class="row align-items-center mb-4">
+        <div class="col-lg-3">
+          <h2 class="mb-3" contenteditable="true"><b><i>Make the future!</i></b></h2>
+        </div>
+        <div class="pl-lg-4 mb-2 col-sm-4 col-md-7 text-uppercase text-right col-lg-12" style="">
+          <p class="lead mb-0 text-dark"><i><b class="text-right">&nbsp;Single Nucleotide Polymorphisms Shorten the Natural Polymorphisms!<br>Join us! Be part of the SNPs society!</b></i></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12"> </div>
+      </div>
+      <div class="row d-flex align-items-center justify-content-between">
+        <div class="col-md-4 col-4">
+          <img class="center-block img-fluid d-block" src="a_a_2-1.png"> </div>
+        <div class="col-md-4 col-4">
+          <img class="center-block img-fluid d-block" src="assets/team/logo_3.png"> </div>
+        <div class="col-md-4 col-4">
+          <img class="center-block img-fluid d-block" src="assets/team/logo_6.png" style=""> </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5 text-center" id="who">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12"> </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="mb-4">Our Team</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
+          <a data-toggle="modal" data-target=".yellow" href="">
+            <div class="card project" style="">
+              <img class="card-img rounded-circle" src="tattoo-design-male-name-james (15).jpg" alt="Card image">
+              <div class="card-body p-0">
+                <p class="mt-3 mb-1"><b>James</b></p>
+                <p class="text-muted m-0"><small>Your Partner</small></p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 px-4 mb-4 col-6 px-lg-5">
+          <a data-toggle="modal" data-target=".white" href="">
+            <div class="card project">
+              <img class="card-img rounded-circle" src="main-qimg-3abb243ec3f0aad890ce845a02fa99fb.png" alt="Card image">
+              <div class="card-body p-0">
+                <p class="mt-3 mb-1"><b>You</b></p>
+                <p class="text-muted m-0"><small>You, whether you are...&nbsp;<br>a student who wants to enter a prestigious graduate school<br>a doctor who wishes to hone your clinical skills&nbsp;<br>a biomedical scientist who is eager to uncover more about the realm&nbsp;<br>YOU SHOULD JOIN US!!!!!</small></p>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-white bg-dark" id="where">
+    <div class="container">
+      <div class="row">
+        <div class="p-5 col-md-6">
+          <h3><b>Communicate with James</b></h3>
+          <p class="">Somewhere in the Chinese University of Hong Kong</p>
+          <p class="">james87912@yahoo.com.tw</p>
+          <p class="mb-3">
+            <a href="#">+</a>852-520520520</p>
+          <a href="#" target="_blank"><i class="fa d-inline fa-lg mr-3 text-white fa-linkedin"></i></a>
+          <a href="#" target="_blank"><i class="fa fa-facebook d-inline fa-lg mr-3 text-white"></i></a>
+        </div>
+        <div class="p-5 col-md-6">
+          <h3 style="">Talk to James!!!!!</h3>
+          <form>
+            <div class="form-group">
+              <input type="email" class="form-control form-control-sm" placeholder="Email" required="required" name="email"> </div>
+            <div class="form-group">
+              <input type="text" class="form-control form-control-sm" id="inlineFormInput" placeholder="Subject" required="required" name="subject"> </div>
+            <div class="form-group"><textarea class="form-control p-1 form-control-sm" id="exampleTextarea" rows="3" placeholder="Your message" name="message"></textarea></div>
+            <button type="submit" class="btn btn-outline-light btn-sm">SUBMIT</button>
+          </form>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 mt-3">
+          <p class="text-center text-muted">© Copyright 2018 Pingendo and James hahaha - All rights reserved. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal fade red">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <!-- Script: Smooth scrolling between anchors in the same page -->
+  <script src="js/smooth-scroll.js"></script>
+  <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
+</body>
+
+</html>
