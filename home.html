@@ -1,44 +1,47 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<!DOCTYPE html>
 <html>
+
 <head>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-128897631-1"></script>
+  <script> window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128897631-1');
+</script>
   <title>Home Page</title>
   <link rel="stylesheet" type="text/css" href="home_style.css">
   <script src="script.js"></script>
   <script>
-  function show_topic() {
-   var x = document.getElementById("demo");
-   x.style.fontSize = "25px";
-   x.style.color = "red";
-  }
+    function show_topic() {
+      var x = document.getElementById("demo");
+      x.style.fontSize = "25px";
+      x.style.color = "red";
+    }
   </script>
 </head>
 
 <body>
-
-<!-- Site navigation menu -->
-<ul class="navbar">
-  <li><a href="index.html">Home page</a>
-  <li><a href="town.html">Calculations</a>
-  <li><a href="links.html">Links</a>
-  <li><a href="musings.html">Musings</a>
-</ul>
-
-<!-- Main content -->
-<h1>Home page</h1>
-
-<p>Welcome to a page of who you love!
-
-<p>It lacks images, cuz your picture stays in my mind;
-And it has links, that connects between you and me
-anywhere&hellip;
-
-<p id=demo>There should be more here, and I will wait for you~
-</p>
-<button onclick="show_topic()">Click this button!</button>
-
-<!-- Sign and date the page, it's only polite! -->
-<address>Made 12 October 2018<br>
-  by your bf/gf.</address>
-
+  <!-- Site navigation menu -->
+  <ul class="navbar">
+    <li><a href="index.html">Home page</a>
+    </li>
+    <li><a href="town.html">Calculations</a>
+    </li>
+    <li><a href="links.html">Links</a>
+    </li>
+    <li><a href="musings.html">Musings</a>
+    </li>
+  </ul>
+  <!-- Main content -->
+  <h1>Home page</h1>
+  <p>Welcome to a page of who you love! </p>
+  <p>It lacks images, cuz your picture stays in my mind; And it has links, that connects between you and me anywhere… </p>
+  <p id="demo">There should be more here, and I will wait for you~ </p>
+  <button onclick="show_topic()">Click this button!</button>
+  <!-- Sign and date the page, it's only polite! -->
+  <address>Made 12 October 2018<br> by your bf/gf.</address>
+  <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
 </body>
+
 </html>
